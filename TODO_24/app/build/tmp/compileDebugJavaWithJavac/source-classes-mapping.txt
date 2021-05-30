@@ -1,0 +1,4 @@
+bt/edu/todo_24/BuildConfig.java
+ bt.edu.todo_24.BuildConfig
+bt/edu/todo_24/MainActivity.java
+ bt.edu.todo_24.MainActivity
