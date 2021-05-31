@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO_6</string>
+    <string name="send_button">Send</string>
+    <string name="Send_message">Enter your text here</string>
+    <string name="message_received">Message Received</string>
+    <string name="reply_message">Enter your reply here</string>
+    <string name="reply_button">Reply</string>
+    <string name="reply_received">Reply_received</string>
+</resources>

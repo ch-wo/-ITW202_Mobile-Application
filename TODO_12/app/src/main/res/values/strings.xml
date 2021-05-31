@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TODO_12</string>
+    <string name="donutDescription">Donuts are glazed and sprinkled with candy</string>
+    <string name="icecreamDescription">Ice cream sandwiches have chocolate wafers and vanilla filling</string>
+    <string name="froyoDescription">Froyo is premium self-serve frozen yogurt</string>
+</resources>

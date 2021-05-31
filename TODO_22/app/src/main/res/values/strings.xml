@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO_22</string>
+
+    <string name="instruction">Enter a name to find out who worte the book</string>
+    <string name="button_text">Search</string>
+    <string name="input_hint">Book Title</string>
+</resources>
