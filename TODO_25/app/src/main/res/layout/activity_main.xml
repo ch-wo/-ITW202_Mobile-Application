@@ -5,16 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:padding="16dp">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="63dp"
+        android:layout_height="wrap_content"
         android:text="Enter the marks of Student"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:gravity="center" />
 
     <EditText
@@ -73,6 +74,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="View All"
+        android:onClick="ViewData"
         android:layout_below="@+id/button"/>
 
     <Button
@@ -81,6 +83,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:text="Update"
+        android:onClick="UpdateData"
         android:layout_below="@+id/button2" />
 
     <Button
@@ -89,6 +92,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Delete"
+        android:onClick="DeleteData"
         android:layout_below="@+id/button3"/>
 
 </RelativeLayout>
